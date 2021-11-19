@@ -76,7 +76,7 @@ export const App = () => {
 
       <h2>Analytics of some top tokens traded on uniswap dex don't have wide liquidity on exchanges</h2>
 
-      ASP:(Average selling price) ABP:(Average Buying Price) ,Tvl(M):(total liquidity in millions) <b>styled with bootstrap:</b>
+      ASP:(Average selling price) ABP:(Average Buying Price) ,Tvl(M):(total liquidity in millions) <b></b>
       ,Liquidity Range:(recommended range to add liquidity), Fees collected annualized(% gain from providing liquidity in range based on 24h trading fees of market and 14d volatility),
       IVL%(%loss from providing liquidity based on estimated volatility), net buyers(eth wallets that have purchased more tokens than they have sold)
       <br/><br/>
